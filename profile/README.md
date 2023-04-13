@@ -19,7 +19,7 @@ We explore the entire TON ecosystem and analyze several main directions:
 **Social data:**  This aspect of research includes analyzing the activity of communities, developers, and new users of TON projects. It allows us to assess interest in the TON ecosystem, understand the dynamics of user and application growth, as well as identify potential problems and challenges for the ecosystem.
 
 ## Website
-Позднее добавим ссылку
+
 
 
 

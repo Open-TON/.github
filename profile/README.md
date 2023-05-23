@@ -20,7 +20,29 @@ We explore the entire TON ecosystem and analyze several main directions:
 - Python via FastAPI
 - MongoDB, Redis
 
+## Stages of development
+1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 2. landing page and charts section.
+3. Charts: JetTons - we will add 20 JetTons in our analytical chart, and will need additional work on backend and frontend. Adding analytics to wrapped tokens.
+4. Charts: Creating a data comparison panel, the ability to save the panel as a jpg, and creating notifications in Telegram.
+5. Dashboard: Creating Dashboards for network data: nodes, fees, block, mempool, validators, Smart contract
+6. Dashboard: Creating Dashboards for network data: Addresses, Telegram, community, jetton, NFT, marketplaces, DEX, wallet, Maps
+7. Dashboard: Creating Dashboards for native TON and Jettons (~20 top): Ownership, Community, Fundraising, Arbitrage data: cex, dex, Dynamic, Liquidity pool
+8. Dashboard: Creating a tool for viewing wallet portfolios by addresses or domain, which will provide detailed information about activity, balance, DeFi, NFT tokens and Jettons.
+9. Dashboard: Creating a tool for analyzing NFT collections through smart contract or collection name search: Analysis, Owners, Trades.
+name search: Analysis, Owners, Trades.
+10. Dashboard: Creating a tool for analyzing Jettons through a search by smart contract: Analysis, Owners, Trades, DEX.
+11. Dashboard: Creating a tool for creating a personalized monitoring panel for the user with the ability to add all necessary elements from the main panel.
+12. Dashboard: Creating a tool for visualizing transactions by address
+13. Research: Creating report pages, doing research on the TON ecosystem
+14. Academy: Creating technical tutorials on working with data on the TON blockchain, combining both theoretical and practical aspects, as well as a detailed technical document on working with the API
+15. Academy: Development of a glossary based on the data on the TON blockchain, as well as the preparation of a series of animated videos that explain the features of the TON blockchain and its data
+16. API: Publishing a Block Indexer and a Public API
 
+## Our Figma
+https://www.figma.com/file/xCW76g5sk9yU2nDkaooY4i/open-ton-final?type=design&node-id=0-1
+
+## Our pitch deck
+https://drive.google.com/file/d/1SBoTOuwp6ZmIx9zMrgF5ecEVevBISjFC/view?usp=sharing
 
 
 

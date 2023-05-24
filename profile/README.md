@@ -29,7 +29,6 @@ We explore the entire TON ecosystem and analyze several main directions:
 7. Dashboard: Creating Dashboards for native TON and Jettons (~20 top): Ownership, Community, Fundraising, Arbitrage data: cex, dex, Dynamic, Liquidity pool
 8. Dashboard: Creating a tool for viewing wallet portfolios by addresses or domain, which will provide detailed information about activity, balance, DeFi, NFT tokens and Jettons.
 9. Dashboard: Creating a tool for analyzing NFT collections through smart contract or collection name search: Analysis, Owners, Trades.
-name search: Analysis, Owners, Trades.
 10. Dashboard: Creating a tool for analyzing Jettons through a search by smart contract: Analysis, Owners, Trades, DEX.
 11. Dashboard: Creating a tool for creating a personalized monitoring panel for the user with the ability to add all necessary elements from the main panel.
 12. Dashboard: Creating a tool for visualizing transactions by address

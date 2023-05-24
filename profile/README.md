@@ -21,7 +21,8 @@ We explore the entire TON ecosystem and analyze several main directions:
 - MongoDB, Redis
 
 ## Stages of development
-1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 2. landing page and charts section.
+1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 
+2. landing page and charts section.
 3. Charts: JetTons - we will add 20 JetTons in our analytical chart, and will need additional work on backend and frontend. Adding analytics to wrapped tokens.
 4. Charts: Creating a data comparison panel, the ability to save the panel as a jpg, and creating notifications in Telegram.
 5. Dashboard: Creating Dashboards for network data: nodes, fees, block, mempool, validators, Smart contract

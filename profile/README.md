@@ -38,7 +38,7 @@ Dashboards will provide an overview of various data consolidated in one place by
 12. Research: Creating a report page and developing 15 automated forms with data for automatic publication in communities. Conducting analysis of block microstructure and modeling network dynamics
 13. Academy: Development of a glossary based on the data on the TON blockchain, as well as the preparation of a series of animated videos that explain the features of the TON blockchain and its data
 14. Academy: Creating technical tutorials on working with data on the TON blockchain, combining both theoretical and practical aspects, as well as a detailed technical document on working with the API
-15. API: Publishing a Block Indexer and a Public API
+15. API: Publishing a Block Indexer and a Public API. Providing the capability to integrate our tools into products based on TON 
 
 ## Tech Stack
 - Typescript, React via Next

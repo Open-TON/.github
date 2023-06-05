@@ -26,10 +26,15 @@ Dashboards will provide an overview of various data consolidated in one place by
 ### Tools
 
 Our team develops unique analytical tools for the TON blockchain that allow users to create comprehensive data detailing and customize it to their needs:
+
 Obtaining statistics on NFT and jettons by smart contract addresses. This tool allows users to get detailed statistics on the collection of NFT or jettons on the TON blockchain
+
 Viewing wallet portfolios by address and their historical data. This tool allows users to obtain information about the composition of tokens at an address, including active and inactive tokens, as well as provides analytical data about the address
+
 Visualization of transactions for a more visual distribution of funds from an address. This tool allows users to visualize transactions on the TON blockchain to better understand how funds are distributed between addresses
+
 Obtaining data on DeFi protocols on the TON blockchain involves analyzing trading activity, tracking profitability and total value locked, monitoring governance and voting processes, and assessing risks and security. This tool provides valuable insights for informed decision-making and optimizing investments within the TON DeFi ecosystem
+
 Creating custom monitoring panels based on our data, as well as transferring charts from the main panel to dashboards. This tool allows users to create their own monitoring panels based on data obtained using our analytical tools
 
 We strive to make the process of monitoring and analyzing data on the TON blockchain as simple and understandable as possible for everyone, so that everyone can access important information and make informed decisions based on data.

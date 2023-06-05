@@ -38,6 +38,7 @@ Obtaining data on DeFi protocols on the TON blockchain involves analyzing tradin
 Creating custom monitoring panels based on our data, as well as transferring charts from the main panel to dashboards. This tool allows users to create their own monitoring panels based on data obtained using our analytical tools
 
 
+
 We strive to make the process of monitoring and analyzing data on the TON blockchain as simple and understandable as possible for everyone, so that everyone can access important information and make informed decisions based on data.
 
 ## Stages of development

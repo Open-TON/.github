@@ -37,9 +37,17 @@ Obtaining data on DeFi protocols on the TON blockchain involves analyzing tradin
 
 Creating custom monitoring panels based on our data, as well as transferring charts from the main panel to dashboards. This tool allows users to create their own monitoring panels based on data obtained using our analytical tools
 
-
-
 We strive to make the process of monitoring and analyzing data on the TON blockchain as simple and understandable as possible for everyone, so that everyone can access important information and make informed decisions based on data.
+
+### Research
+To popularize information about the TON blockchain, we will develop a reports page where monthly reports on the state of the TON network and projects in the ecosystem will be published. These reports will contain information on new developments, updates, network usage statistics, and other important events in the TON ecosystem. Additionally, we are considering the possibility of adding community-created reports and analytics to provide a wider overview of events in the TON ecosystem.
+
+### Academy
+For new users and developers of the TON blockchain, we are creating an academy for working with data.
+
+For investors and network users, our academy provides basic information about the TON blockchain, a glossary of our data, and a collection of instructional animated videos that will help newcomers better understand the information and make informed investment decisions.
+
+For developers, our academy provides all necessary materials for working with TON blockchain data, starting from basic principles and ending with a professional level. We combine the theoretical part with practical application. Additionally, we provide access to our public API to help developers create their own applications on the TON blockchain.
 
 ## Stages of development
 1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 

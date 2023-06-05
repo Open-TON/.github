@@ -5,7 +5,7 @@
 
 # The Project
 
-OpenTON is an analytical platform that provides up-to-date data on the TON ecosystem with the aim of making it more transparent and accessible to all users. It helps users learn about the state of the TON network and provides deep knowledge of blockchain data.
+OpenTON is an analytical platform that provides up-to-date data on the TON ecosystem with the aim of making it more transparent and accessible to all users.  It enables users to gain insights into the status of the TON network, the advancement of the DeFi sector, and provides in-depth understanding of blockchain data.
 
 ### Data
 

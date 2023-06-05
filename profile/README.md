@@ -59,12 +59,13 @@ For developers, our academy provides all necessary materials for working with TO
 7. Tools: Creating a tool for viewing wallet portfolios by addresses or domain, which will provide detailed information about activity, balance, DeFi, NFT tokens and Jettons
 8. Tools: Creating a tool for analyzing NFT collections through smart contract addresses or collection names search: Analysis, Owners, Trades
 9. Tools: Creating a tool for analyzing Jettons through smart contract address or names search: Analysis, Owners, Trades, DEX
-10. Tools: Creating a tool for visualizing wallet transactions by address
-11. Dashboard: Creating a tool for creating a personalized monitoring panel for the user with the ability to add all necessary elements from the main panel
-12. Research: Creating a report page and developing 15 automated forms with data for automatic publication in communities. Conducting analysis of block microstructure and modeling network dynamics
-13. Academy: Development of a glossary based on the data on the TON blockchain, as well as the preparation of a series of animated videos that explain the features of the TON blockchain and its data
-14. Academy: Creating technical tutorials on working with data on the TON blockchain, combining both theoretical and practical aspects, as well as a detailed technical document on working with the API
-15. API: Publishing a Block Indexer and a Public API. Providing the capability to integrate our tools into products based on TON 
+10. Tools: Creating a tool for analyzing DeFi protocols in the TON ecosystem
+11. Tools: Creating a tool for visualizing wallet transactions by address
+12. Dashboard: Creating a tool for creating a personalized monitoring panel for the user with the ability to add all necessary elements from the main panel
+13. Research: Creating a report page and developing 15 automated forms with data for automatic publication in communities. Conducting analysis of block microstructure and modeling network dynamics
+14. Academy: Development of a glossary based on the data on the TON blockchain, as well as the preparation of a series of animated videos that explain the features of the TON blockchain and its data
+15. Academy: Creating technical tutorials on working with data on the TON blockchain, combining both theoretical and practical aspects, as well as a detailed technical document on working with the API
+16. API: Publishing a Block Indexer and a Public API. Providing the capability to integrate our tools into products based on TON 
 
 ## Tech Stack
 - Typescript, React via Next

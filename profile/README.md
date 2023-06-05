@@ -11,17 +11,28 @@ OpenTON is an analytical platform that provides up-to-date data on the TON ecosy
 
 We explore the entire TON ecosystem and analyze several main directions:
 
-**On-chain data and blockchain analytics:** This research area covers data stored on the TON blockchain, such as the number of active addresses, transaction volume, validator count, transaction volume, the number of addresses with different balances, and other data that allow us to assess the health and condition of the TON network.
+**On-chain data and blockchain analytics:** This research area covers data stored on the TON blockchain, such as the number of active addresses, transaction volume, validator count, transaction volume, the number of addresses with different balances, and other data that allow us to assess the health and condition of the TON network
 
-**Financial data:** Within this direction, we analyze data on TON and Jetton trading on cryptocurrency exchanges, price data, trading volumes, open interest, futures and options, asset volatility, correlation with other assets, and other financial metrics that can give us an understanding of market dynamics. In addition to analyzing financial data, we actively collect statistics on the number of token sales, fundraising activity, and funds investing in TON projects. This allows users to get a more complete picture of the TON ecosystem's development and evaluate its prospects for the future.
+**Financial data:** Within this direction, we analyze data on TON and Jetton trading on cryptocurrency exchanges, price data, trading volumes, open interest, futures and options, asset volatility, correlation with other assets, and other financial metrics that can give us an understanding of market dynamics. In addition to analyzing financial data, we actively collect statistics on the number of token sales, fundraising activity, and funds investing in TON projects. This allows users to get a more complete picture of the TON ecosystem's development and evaluate its prospects for the future
 
-**Social data:**  This aspect of research includes analyzing the activity of communities, developers, and new users of TON projects. It allows us to assess interest in the TON ecosystem, understand the dynamics of user and application growth, as well as identify potential problems and challenges for the ecosystem.
+**Social data:**  This aspect of research includes analyzing the activity of communities, developers, and new users of TON projects. It allows us to assess interest in the TON ecosystem, understand the dynamics of user and application growth, as well as identify potential problems and challenges for the ecosystem
 
 The data we provide will be visualized in two executions: the main panel and dashboards.
 
 The main panel will allow users to select assets of interest from the TON ecosystem and customize data display parameters according to their interests. For example, users can choose specific time periods to display price data for a particular asset or customize charts to display different metrics.
 
 Dashboards will provide an overview of various data consolidated in one place by topics. For example, a dashboard will display data on prices of various NFTs or statistics on DeFi projects on the TON blockchain. This will allow users to quickly get an overview of their areas of interest without having to search for information in different sources.
+
+### Tools
+
+Our team develops unique analytical tools for the TON blockchain that allow users to create comprehensive data detailing and customize it to their needs:
+Obtaining statistics on NFT and jettons by smart contract addresses. This tool allows users to get detailed statistics on the collection of NFT or jettons on the TON blockchain
+Viewing wallet portfolios by address and their historical data. This tool allows users to obtain information about the composition of tokens at an address, including active and inactive tokens, as well as provides analytical data about the address
+Visualization of transactions for a more visual distribution of funds from an address. This tool allows users to visualize transactions on the TON blockchain to better understand how funds are distributed between addresses
+Obtaining data on DeFi protocols on the TON blockchain involves analyzing trading activity, tracking profitability and total value locked, monitoring governance and voting processes, and assessing risks and security. This tool provides valuable insights for informed decision-making and optimizing investments within the TON DeFi ecosystem
+Creating custom monitoring panels based on our data, as well as transferring charts from the main panel to dashboards. This tool allows users to create their own monitoring panels based on data obtained using our analytical tools
+
+We strive to make the process of monitoring and analyzing data on the TON blockchain as simple and understandable as possible for everyone, so that everyone can access important information and make informed decisions based on data.
 
 ## Stages of development
 1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 

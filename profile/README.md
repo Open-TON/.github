@@ -3,7 +3,7 @@
 ![telegram-cloud-document-2-5294121296303500646](https://user-images.githubusercontent.com/40736106/230440274-5e248f47-a637-404c-bfcb-261743d84299.jpg)
 
 
-## The Project
+# The Project
 
 OpenTON is an analytical platform that provides up-to-date data on the TON ecosystem with the aim of making it more transparent and accessible to all users. It helps users learn about the state of the TON network and provides deep knowledge of blockchain data.
 
@@ -49,7 +49,7 @@ For investors and network users, our academy provides basic information about th
 
 For developers, our academy provides all necessary materials for working with TON blockchain data, starting from basic principles and ending with a professional level. We combine the theoretical part with practical application. Additionally, we provide access to our public API to help developers create their own applications on the TON blockchain.
 
-## Stages of development
+# Stages of development
 1. MVP - Home Chart Developed 2-3 services, API for charts and main dashboard deployed, MongoDB deployed, united data scraping. Website deployed on Openton.app with 
 2. Charts: JetTons - we will add 20 JetTons in our analytical chart, and will need additional work on backend and frontend. Adding analytics to wrapped tokens
 3. Charts: Creating a data comparison panel, the ability to save the panel as a jpg, and creating notifications in Telegram

@@ -31,9 +31,9 @@ Obtaining statistics on NFT and jettons by smart contract addresses. This tool a
 
 Viewing wallet portfolios by address and their historical data. This tool allows users to obtain information about the composition of tokens at an address, including active and inactive tokens, as well as provides analytical data about the address
 
-Visualization of transactions for a more visual distribution of funds from an address. This tool allows users to visualize transactions on the TON blockchain to better understand how funds are distributed between addresses
-
 Obtaining data on DeFi protocols on the TON blockchain involves analyzing trading activity, tracking profitability and total value locked, monitoring governance and voting processes, and assessing risks and security. This tool provides valuable insights for informed decision-making and optimizing investments within the TON DeFi ecosystem
+
+Visualization of transactions for a more visual distribution of funds from an address. This tool allows users to visualize transactions on the TON blockchain to better understand how funds are distributed between addresses
 
 Creating custom monitoring panels based on our data, as well as transferring charts from the main panel to dashboards. This tool allows users to create their own monitoring panels based on data obtained using our analytical tools
 

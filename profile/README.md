@@ -75,7 +75,7 @@ For developers, our academy provides all necessary materials for working with TO
 ## Our Figma
 https://www.figma.com/file/xCW76g5sk9yU2nDkaooY4i/open-ton-final?type=design&node-id=0-1
 
-## Our pitch deck
+## Our pitch deck (v1)
 https://drive.google.com/file/d/1SBoTOuwp6ZmIx9zMrgF5ecEVevBISjFC/view?usp=sharing
 
 

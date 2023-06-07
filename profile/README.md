@@ -21,7 +21,7 @@ The data we provide will be visualized in two executions: the main panel and das
 
 The main panel will allow users to select assets of interest from the TON ecosystem and customize data display parameters according to their interests. For example, users can choose specific time periods to display price data for a particular asset or customize charts to display different metrics.
 
-Dashboards will provide an overview of various data consolidated in one place by topics. For example, a dashboard will display data on prices of various NFTs or statistics on DeFi projects on the TON blockchain. This will allow users to quickly get an overview of their areas of interest without having to search for information in different sources.
+Dashboards will provide an overview of various data consolidated in one place by topics. For example, a dashboard will display data on prices of various NFTs or statistics on DEX projects on the TON blockchain. This will allow users to quickly get an overview of their areas of interest without having to search for information in different sources.
 
 ### Tools
 
